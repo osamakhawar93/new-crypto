@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1453px" height="702px" viewBox="0 0 1453 702" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>E3BBB7C0-46C4-4893-8629-F9E72AC70D16</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="3.1202694%" y1="46.0823356%" x2="93.8593225%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3AC6B5" offset="0%"></stop>
+            <stop stop-color="#149AD1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page-5" transform="translate(-263.000000, -4043.000000)" fill="url(#linearGradient-1)">
+            <g id="Vision" transform="translate(263.000000, 4006.000000)">
+                <polygon id="vision-bg" points="103.954379 37.8934124 1289.3479 53.4509058 1452.60337 347.138049 1394.10354 739 41.2102912 739 0 652.700491"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
