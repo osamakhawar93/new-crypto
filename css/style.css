@@ -1043,3 +1043,43 @@ li>a:hover, a {
     font-weight: 300;	
     line-height: 18px;
 }
+
+/* Debit card section */
+
+.left-big-white{
+    width: 60%;
+    padding: 52px 150px 58px 52px;
+    background-color: #FFFFFF;	
+    box-shadow: 10px 10px 24px 0 rgba(180,209,227,0.28), 0 0px 0 0 #2FBBAA;
+}
+
+.left-big-white p{
+    color: #40464D;	
+    font-family: 'mont-light';	
+    font-size: 13px;	
+    line-height: 22px;
+}
+
+.blue-head{
+    color: #45CDB2;	
+    font-family: 'mont-bold';	
+    font-size: 24px;	
+    line-height: 40px;
+    margin-bottom:45px;
+}
+
+.image-top-section{
+    height: 440px;
+    position: relative
+}
+
+.image-on-top{
+    position: absolute;
+    top: 75px;
+    right: 0;
+    width: 50%;
+}
+
+.image-on-top img{
+    max-width: 100%;
+}
