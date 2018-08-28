@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1035px" height="407px" viewBox="0 0 1035 407" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>0019B625-12F5-4889-B817-2FBB8DF92D36</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="3.1202694%" y1="46.0823356%" x2="93.8593225%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3AC6B5" offset="0%"></stop>
+            <stop stop-color="#149AD1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page-5" transform="translate(-391.000000, -5290.000000)" fill="url(#linearGradient-1)">
+            <g id="ICO" transform="translate(-1473.000000, 4745.000000)">
+                <polygon id="earn-coin-bg" points="2898.80282 681.421398 2762.73865 871.909782 2338.16875 952 1982.8654 888.628486 1864 740.181853 1982.8654 545 2662.67359 545"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
