@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="137px" height="166px" viewBox="0 0 137 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>3D15EF95-B3E3-43F3-A4D0-D5F3928E39AB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="29.2692588 127.719997 19.0399062 69.7064563 64.8638261 6 88.5913877 57.4426535 84.605864 117.962661"></polygon>
+        <filter x="-47.4%" y="-27.1%" width="212.1%" height="164.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="6" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.327575786   0 0 0 0 0.552809811   0 0 0 0 0.650403912  0 0 0 0.198199728 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="Montserrat-Bold, Montserrat" font-size="120" font-weight="bold" line-spacing="22">
+            <tspan x="0" y="204.885856">2</tspan>
+        </text>
+        <filter x="-53.3%" y="-160.1%" width="215.4%" height="366.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.116161924   0 0 0 0 0.678890306   0 0 0 0 0.6113629  0 0 0 0.0904664855 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="6" dy="7" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.592653213   0 0 0 0 0.781888628   0 0 0 0 0.866416879  0 0 0 0.52564538 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page-5" transform="translate(-768.000000, -6605.000000)">
+            <g id="ICO" transform="translate(-1473.000000, 4745.000000)">
+                <g id="Group-33" transform="translate(1775.000000, 1698.000000)">
+                    <g id="2" transform="translate(467.000000, 166.000000)">
+                        <g id="Rectangle-5-Copy" fill-rule="nonzero" transform="translate(53.815647, 66.859999) rotate(10.000000) translate(-53.815647, -66.859999) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#71D3FB" xlink:href="#path-1"></use>
+                        </g>
+                        <g style="transform: translate(21px,-105px);" transform="translate(68.000000, 125.885856) rotate(-360.000000) translate(-68.000000, -125.885856) " fill="#FFFCFC">
+                            <use fill-opacity="1" filter="url(#filter-4)" xlink:href="#text-3"></use>
+                            <use fill-rule="evenodd" xlink:href="#text-3"></use>
+                            <use fill-opacity="1" xlink:href="#text-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
